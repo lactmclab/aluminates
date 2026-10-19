@@ -1,0 +1,2 @@
+DFT_datapoints/** filter=lfs diff=lfs merge=lfs -text
+trajectory/md.traj filter=lfs diff=lfs merge=lfs -text
